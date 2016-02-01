@@ -1,6 +1,6 @@
 # resume
 
-[View it here](http://www.flygon.net/resume/)
+[View it here](http://wizardforcel.github.io/resume/)
 
 ## usage
 
