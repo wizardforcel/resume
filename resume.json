@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "Zichen Zhang",
+        "label": "Undergraduate",
+        "picture": "",
+        "email": "wizardforcel@outlook.com",
+        "phone": "1851 0338 119",
+        "website": "http://www.flygon.net",
+        "location": {
+            "address": "",
+            "postalCode": "100089",
+            "city": "Beijing",
+            "countryCode": "86",
+            "region": "China"
+        },
+        "profiles": [{
+            "network": "GitHub",
+            "username": "wizardforcel",
+            "url": "https://github.com/wizardforcel"
+        }, {
+            "network": "Blog",
+            "username": "flygon",
+            "url": "http://www.flygon.net"
+        }, {
+            "network": "SegmentFault",
+            "username": "flygon",
+            "url": "http://segmentfault.com/u/flygon"
+        }]
+    },
+    "education": [{
+        "institution": "Shanghai Jiao Tong University",
+        "area": " Major in Software Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2012-09",
+        "endDate": "2016-06",
+        "courses": []
+    }, {
+        "institution": "Shanghai Jiao Tong University",
+        "area": "Minor in Journalism and Communication",
+        "studyType": "Bachelor",
+        "startDate": "2013-09",
+        "endDate": "2016-06",
+        "courses": []
+    }],
+    "awards": [{
+        "title": "China Students Service Outsourcing Innovation Competition, 6th",
+        "date": "2015-07",
+        "awarder": "Group second prize",
+        "summary": "Got the prize with MicroCampus. I wrote most part of android app in the group."
+    }],
+    "publications": [{
+        "name": "Firmament",
+        "summary": "An automatic signer for Tieba",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2014-07",
+        "website": "https://github.com/wizardforcel/firmament"
+    }, {
+        "name": "Mini BASIC Interpreter",
+        "summary": "A reduced BASIC Interpreter witten in C++",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2013-11",
+        "website": "https://github.com/wizardforcel/se106labs/tree/master/lab3"
+    }, {
+        "name": "JianHelper",
+        "summary": "A crawler for jianshu.com generating EPUB",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2016-01",
+        "website": "https://github.com/wizardforcel/jianhelper"
+    }, {
+        "name": "MicroCampus",
+        "summary": "A android app for campus navigation",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2015-07",
+        "website": "https://github.com/wizardforcel/se337"
+    }, {
+        "name": "Routine Manager",
+        "summary": "A daily routine manager for person on PC and android",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2014-07",
+        "website": "https://github.com/wizardforcel/se214"
+    }, {
+        "name": "Data Mining Toolbox Based on RMP",
+        "summary": "My graduation project, not finished yet",
+        "publisher": "Zichen Zhang",
+        "releaseDate": "2016",
+        "website": "https://github.com/wizardforcel/rdf-dm-proj"
+    }],
+    "skills": [{
+        "name": "Lang",
+        "level": "intermediate",
+        "keywords": [
+            "C++",
+            "Java",
+            "C#",
+            "PHP",
+            "Python",
+            "JavaScript"
+        ]
+    }, {
+        "name": "Web",
+        "level": "beginner",
+        "keywords": [
+            "Spring + Mybatis (for Java)",
+            "Flask (for Python)",
+            "Node.js"
+        ]
+    }, {
+        "name": "App",
+        "level": "intermediate",
+        "keywords": [
+            "Android",
+            "WinForm (for PC)"
+        ]
+    }, {
+        "name": "Tool",
+        "level": "intermediate",
+        "keywords": [
+            "Git",
+            "Linux",
+            "Fiddler"
+        ]
+    }, {
+        "name": "Reverse engineering on x86 and Android",
+        "level": "beginner"
+    }, {
+        "name": "Data Mining",
+        "level": "beginner"
+    }],
+    "languages": [],
+    "interests": [{
+        "name": "Programming",
+        "keywords": [
+            "Backend",
+            "Mobile and PC app",
+            "Reverse Engineering",
+            "Web Security",
+            "GUI"
+        ]
+    }, {
+        "name": "Others",
+        "keywords": [
+            "Piano",
+            "Orienteering",
+            "Computer Game"
+        ]
+    }],
+    "references": []
+}

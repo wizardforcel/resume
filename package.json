@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.sh",
+  "dependencies": {
+    "jsonresume-theme-onepage": "^0.0.2",
+    "jsonresume-theme-onepage-year": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "hackmyresume BUILD ./resume.json TO ./index.html -t ./node_modules/jsonresume-theme-onepage",
+    "build-cn": "hackmyresume BUILD ./cn/resume.json TO ./cn/index.html -t ./node_modules/jsonresume-theme-onepage",
+    "open": "open ./index.html",
+    "open-cn": "open ./cn/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardforcel/resume.git"
+  },
+  "author": "Wizardforcel",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/wizardforcel/resume/issues"
+  },
+  "homepage": "https://github.com/wizardforcel/resume#readme"
+}
