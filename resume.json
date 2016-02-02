@@ -3,7 +3,7 @@
         "name": "Zichen Zhang",
         "label": "Undergraduate",
         "picture": "",
-        "email": "wizardforcel@outlook.com",
+        "email": "wizard.z@foxmail.com",
         "phone": "1851 0338 119",
         "website": "http://www.flygon.net",
         "location": {
@@ -46,7 +46,7 @@
         "title": "China Students Service Outsourcing Innovation Competition, 6th",
         "date": "2015-07",
         "awarder": "Group second prize",
-        "summary": "Got the prize with MicroCampus. I wrote most part of android app in the group."
+        "summary": "Won the prize with MicroCampus. I wrote most part of android app in the group."
     }],
     "publications": [{
         "name": "Firmament",
@@ -68,7 +68,7 @@
         "website": "https://github.com/wizardforcel/jianhelper"
     }, {
         "name": "MicroCampus",
-        "summary": "A android app for campus navigation",
+        "summary": "An android app for campus navigation",
         "publisher": "Zichen Zhang",
         "releaseDate": "2015-07",
         "website": "https://github.com/wizardforcel/se337"
