@@ -10,9 +10,9 @@
   "devDependencies": {},
   "scripts": {
     "build": "hackmyresume BUILD ./resume.json TO ./index.html -t ./node_modules/jsonresume-theme-onepage",
-    "build-cn": "hackmyresume BUILD ./cn/resume.json TO ./cn/index.html -t ./node_modules/jsonresume-theme-onepage",
+    "build-zh": "hackmyresume BUILD ./zh/resume.json TO ./zh/index.html -t ./node_modules/jsonresume-theme-onepage",
     "open": "open ./index.html",
-    "open-cn": "open ./cn/index.html"
+    "open-zh": "open ./zh/index.html"
   },
   "repository": {
     "type": "git",
